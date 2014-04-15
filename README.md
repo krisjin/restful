@@ -1,2 +1,2 @@
-restful
+Jersey restful example
 =======
